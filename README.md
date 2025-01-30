@@ -44,6 +44,6 @@ Marcus Eduardo - 5779
 ![Diagrama de Classe](https://github.com/matheus-junio-da-silva/tp-poo/raw/master/Diagrama%20de%20classe.png)   
 
 
-![especificação do tp]([https://github.com/matheus-junio-da-silva/tp-poo/raw/master/Diagrama%20de%20classe.png](https://github.com/matheus-junio-da-silva/tp-poo/blob/master/artefatos/especificacao.pdf
+![especificação do tp]((https://github.com/matheus-junio-da-silva/tp-poo/blob/master/artefatos/especificacao.pdf
 )
 
