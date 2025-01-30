@@ -40,3 +40,6 @@ Geovana Beatriz - 4633
 Willyan Guilherme - 4233
 Matheus Junior - 5382
 Marcus Eduardo - 5779
+
+![Diagrama de Classe](https://github.com/matheus-junio-da-silva/tp-poo/raw/master/Diagrama%20de%20classe.png)
+
