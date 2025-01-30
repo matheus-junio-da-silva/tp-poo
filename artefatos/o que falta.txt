@@ -1,0 +1,7 @@
+* imagem mais nítida
+* personalização dos botões
+* melhora a funcionalidade e a lógica de fugir(apenas mostra alguns texto) além dela estar disponível depois que já domou o dragao,
+* pesonalizar gamePanel 
+* depois que domestica o dragão, o botão de domesticar ainda fica disponível, sugestão: melhorar a logica para que outro dragão seja domado, substituindo o atual ou  simplesmente desabilitando o botão
+* nas interações com o dragão, aparece apenas o texto mostrando que aquilo que o usuário quis fazer aconteceu, seria interessante fazer alguma animação ou gifs, para ficar mais legal as interações
+* atualmente ao alimentar, temos que colocar o nome da comida, seria mais pratico trocar o texto por botões

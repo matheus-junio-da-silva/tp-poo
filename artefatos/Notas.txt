@@ -1,0 +1,24 @@
+Variações de dragões:
+    id  -   Especie
+
+    1   -   Furia da Noite
+    2   -   Nadder Mortal
+    3   -   Pesadelo Monstruoso
+    4   -   Zipperarrepiante
+    5   -   Gronckle
+
+Comidas:
+    Rocha
+    Frango
+    Peixe
+
+Convenção de nomeclatura:
+    camelCase
+
+A fazer:
+    Diagrama de classe - para a entrega*
+    Documento "pré-projeto", com prototipos das telas, e explicando mais ou menos o que vai ser feito*
+    Divisão das tarefas - criação de metodos, implementação, documentação, e prototipos
+
+Ideias:
+    Utilizar de arquivos para leitura das infos dos dragões + sistema de save simples

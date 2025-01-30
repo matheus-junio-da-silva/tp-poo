@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Academia-de-Dragoes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Academia_de_Dragoes_jar</output-path>
+    <root id="archive" name="Academia-de-Dragoes.jar">
+      <element id="module-output" name="Academia-de-Dragoes" />
+    </root>
+  </artifact>
+</component>
