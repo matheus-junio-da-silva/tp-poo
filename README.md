@@ -38,8 +38,12 @@ Luiza Rosa - 5390
 Lucas Garcia - 5362
 Geovana Beatriz - 4633
 Willyan Guilherme - 4233
-Matheus Junior - 5382
+Matheus Junio - 5382
 Marcus Eduardo - 5779
 
-![Diagrama de Classe](https://github.com/matheus-junio-da-silva/tp-poo/raw/master/Diagrama%20de%20classe.png)
+![Diagrama de Classe](https://github.com/matheus-junio-da-silva/tp-poo/raw/master/Diagrama%20de%20classe.png)   
+
+
+![especificação do tp]([https://github.com/matheus-junio-da-silva/tp-poo/raw/master/Diagrama%20de%20classe.png](https://github.com/matheus-junio-da-silva/tp-poo/blob/master/artefatos/especificacao.pdf
+)
 
